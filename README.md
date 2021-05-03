@@ -1,4 +1,4 @@
-# Creating and appanding a bot to a discord server 
+# Creating and appending a bot to a discord server 
 To create a bot, open the following url 
 * https://discord.com/developers/applications  
 
